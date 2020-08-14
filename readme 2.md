@@ -10,8 +10,8 @@ In this space below, list **THREE** ideas for your Project 2. For each idea, inc
 
 --------------------------------------------------------
 1. Intagram/Facebook like project that gathers images from your facebook or instagram with likes and comments
-2. Workout, this will be a way a
-3. Cars, still working on this Idea but I think it will be basically a car part finder
+2.
+3.
 ---------------------------------------------------------
 
 Make a PR when you're done!
@@ -27,13 +27,10 @@ In the space below:
 
 ----------------------------------------------------------
 ### ERD
-https://app.lucidchart.com/invitations/accept/c8fb5a4b-519e-4d36-8a64-c786516cebd2
 
 ----------------------------------------------------------
 ### User Stories
-User wants to be able to select a part of his body (example arms or legs) and exercise types will appear
-User will be able to select set exercise and add repetitions and numbers of sets
-After selection a few different exercise, the user will have a complete workout for the day
+
 ----------------------------------------------------------
 ### Wireframes
 
